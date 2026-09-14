@@ -1,0 +1,25 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(202, 210, 252);
+}
+
+
+a {
+    text-decoration: none;
+}
+
+#contagem-regressiva {
+    background-color: #5355a1;
+    padding: 1em;
+}
+
+#contador {
+
+}
+
+footer {
+    border-top: #5355a1 solid 0.1em;
+    padding: 0.8em;
+}
